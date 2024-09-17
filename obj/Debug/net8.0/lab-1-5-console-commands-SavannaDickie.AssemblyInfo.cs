@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-5-console-commands-SavannaDickie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787f91ad82920d7bb14b3c9b7e75342b3314da49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e2e6cb4adae9313146bec7815e57350b1888e20")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-5-console-commands-SavannaDickie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-5-console-commands-SavannaDickie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

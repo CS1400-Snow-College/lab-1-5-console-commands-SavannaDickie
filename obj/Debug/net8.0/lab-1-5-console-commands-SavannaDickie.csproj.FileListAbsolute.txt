@@ -1,0 +1,15 @@
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/bin/Debug/net8.0/lab-1-5-console-commands-SavannaDickie
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/bin/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.deps.json
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/bin/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.runtimeconfig.json
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/bin/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.dll
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/bin/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.pdb
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.AssemblyInfoInputs.cache
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.AssemblyInfo.cs
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.csproj.CoreCompileInputs.cache
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.sourcelink.json
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.dll
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/refint/lab-1-5-console-commands-SavannaDickie.dll
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.pdb
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/lab-1-5-console-commands-SavannaDickie.genruntimeconfig.cache
+/Users/personal3/Desktop/code/mycodedir/lab-1-5-console-commands-SavannaDickie/obj/Debug/net8.0/ref/lab-1-5-console-commands-SavannaDickie.dll
